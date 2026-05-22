@@ -1,0 +1,31 @@
+p {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.smaller {
+    font-size: 20px;
+}
+
+.border {
+    font-size: 25px;
+}
+
+.border.green {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+.border.white {
+    background-color: white;
+}
+
+.thin {
+    font-size: 40px;
+}
+
+.thin .smaller {
+    font-size: 20px;
+    font-weight: bold;
+}
